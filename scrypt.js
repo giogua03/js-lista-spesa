@@ -1,7 +1,7 @@
 const arrGroceryList = ['cotone', 'marmellata'];
-const eleButton = document.querySelector('.button');
-const inputGroceryItem = document.querySelector('.inserisci');
-const eleGroceryList = document.querySelector('.grocery-list');
+const eleButton = document.getElementById('.button');
+const inputGroceryItem = document.getElementById('.inserisci');
+const eleGroceryList = document.getElementById('.grocery-list');
 
 
 

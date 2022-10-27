@@ -11,3 +11,6 @@ button{
     color: black;
     background-color: gold;
 }
+.container{
+    margin: 2rem;
+}
